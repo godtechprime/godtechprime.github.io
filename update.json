@@ -1,6 +1,6 @@
 {
-  "versionCode": 20,
-  "versionName": "20.0",
-  "forceUpdate": false,
+  "versionCode": 21,
+  "versionName": "21.0",
+  "forceUpdate": true,
   "changelog": "Bug fixes and improvements."
 }
