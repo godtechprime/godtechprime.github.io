@@ -1,6 +1,6 @@
 {
   "versionCode": 19,
   "versionName": "19.0",
-  "forceUpdate": false,
+  "forceUpdate": true,
   "changelog": "Bug fixes and improvements."
 }
